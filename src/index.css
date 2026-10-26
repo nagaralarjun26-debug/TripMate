@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: hsl(210, 60%, 55%);
+  --color-secondary: hsl(34, 80%, 60%);
+  --color-accent: hsl(160, 55%, 45%);
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+/* Custom global styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f9fafb;
+  color: #1f2937;
+  -webkit-font-smoothing: antialiased;
+}

@@ -1,3 +1,7 @@
+Demo video link
+https://drive.google.com/file/d/155LUc-JI8GcjIBAEJ5Egfl5hhKTVMoip/view?usp=sharing
+
+
 # TripMate
 
 A full‑stack travel planning application built with **React** (Vite) on the frontend and **Express + MongoDB** on the backend. It supports user registration, JWT authentication, trip creation, itineraries, expenses, settlements and a catalog of travel destinations.
